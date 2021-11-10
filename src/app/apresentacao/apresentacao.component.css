@@ -1,0 +1,13 @@
+.btn {
+  width: 100px;
+  color:white;
+  border: 2px solid transparent;
+}
+
+.btn-primary{
+  background-color:blue;
+}
+
+.btn-danger{
+  background-color: red;
+}
